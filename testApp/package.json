@@ -1,0 +1,16 @@
+{
+  "name": "@kishan/node-test",
+  "version": "1.0.0",
+  "description": "My first node module",
+  "main": "main.js",
+  "scripts": {
+	 "test": "mocha test",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "test",
+    "kishan"
+  ],
+  "author": "KSN",
+  "license": "ISC"
+}
